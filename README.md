@@ -2,7 +2,6 @@
 # Hi, I'm Ural!
 
 Young fullstack developer from Ufa, Russia. Student at **K1berOne** programming school.  
-Chess player ♟️ | Volleyball enthusiast 🏐
 
 ---
 
@@ -21,8 +20,6 @@ Chess player ♟️ | Volleyball enthusiast 🏐
 
 [![Ural's GitHub stats](https://github-readme-stats.vercel.app/api?username=axcegao&show_icons=true&theme=radical)](https://github.com/axcegao)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axcegao&layout=compact&theme=radical)](https://github.com/axcegao)
-
-> *Replace `axcegao` with your actual GitHub username if different.*
 
 ---
 
