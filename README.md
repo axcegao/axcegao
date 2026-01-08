@@ -1,7 +1,14 @@
-<!-- Hi there 👋 -->
-# Hi, I'm Ural!
+# Hi there, I'm Ural!👋
 
-Young fullstack developer from Ufa, Russia. Student at **K1berOne** programming school.  
+---
+
+## About Me
+
+  - Young **fullstack developer** from Ufa, Russia.
+  - Student at **K1berOne** programming school.
+  - Working with **online stores** for small businesses.
+  - Currently studying **Machine Learning & AI development**.
+  - Reach me: **[@axcegap](https://t.me/axcegap)** on Telegram.
 
 ---
 
@@ -22,18 +29,4 @@ Young fullstack developer from Ufa, Russia. Student at **K1berOne** programming 
 
 ---
 
-### 🧠 Currently Learning
-
-- **Machine Learning & AI development**  
-  Focused on fundamentals: data preprocessing, model training (scikit-learn, TensorFlow), and real-world applications.
-- Exploring how ML can be applied in web projects (e.g., recommendation systems, image classification).
-
----
-
-### 📬 Get in Touch
-
-- Telegram: [@axcegao](https://t.me/axcegao)
-
----
-
-> “Code is not just logic—it’s a way to understand the world.”
+> “The question isn't who is going to let me; it's who is going to stop me”
