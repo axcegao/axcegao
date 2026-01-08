@@ -18,9 +18,7 @@ Young fullstack developer from Ufa, Russia. Student at **K1berOne** programming 
 
 ### 📈 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=axcegao&theme=react&hide_border=true" alt="Activity Graph" />
-</div>
+[![Ural's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=axcegao&theme=react)](https://github.com/axcegao/github-readme-activity-graph)
 
 ---
 
