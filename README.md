@@ -18,7 +18,9 @@ Young fullstack developer from Ufa, Russia. Student at **K1berOne** programming 
 
 ### 📈 GitHub Stats
 
-[![Ural's GitHub stats](https://activity-graph.herokuapp.com/graph?axcegao)
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=axcegao&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+</div>
 
 ---
 
