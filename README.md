@@ -20,13 +20,3 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-
----
-
-### 📈 GitHub Stats
-
-[![Ural's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=axcegao&theme=react)](https://github.com/axcegao/github-readme-activity-graph)
-
----
-
-> “The question isn't who is going to let me; it's who is going to stop me”
