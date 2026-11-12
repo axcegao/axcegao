@@ -1,22 +1,47 @@
-# Hi there, I'm Ural!👋
+<div align="center">
+
+# Hi there, I'm Ural! 👋
+
+[![Typing SVG](https://demolab.com)](https://git.io)
+
+[![Telegram](https://shields.io)](https://t.me)
+[![Gmail](https://shields.io)](mailto:axcegao@gmail.com)
+
+</div>
 
 ---
 
-## About Me
+### 👨‍💻 About Me
 
-  - Young **fullstack developer** from Ufa, Russia.
-  - Student at **K1berOne** programming school.
-  - Working with **online stores** for small businesses.
-  - Currently studying **Machine Learning & AI development**.
-  - Reach me: **[@axcegap](https://t.me/axcegap)** on Telegram.
+- 🌍 Based in **Ufa, Russia**
+- 🧑‍🏫 Coding tutor at **K1berOne** programming school
+- 💼 Building **web apps** and **online stores** for small businesses
+- 🧠 Currently diving into **Machine Learning & AI development**
+- ♟️ Passionate about **web development** and **chess**
+- 💬 Ask me about **Python, React, Flask, or e-commerce development**
 
 ---
 
-### 💻 Tech Stack
+### 🛠️ Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+**Languages**  
+![Python](https://shields.io)
+![JavaScript](https://shields.io)
+![SQL](https://shields.io)
+
+**Frontend**  
+![React](https://shields.io)
+![Vite](https://shields.io)
+
+**Backend & Databases**  
+![Flask](https://shields.io)
+![PostgreSQL](https://shields.io)
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://vercel.app"/>
+  <img height="180em" src="https://vercel.app"/>
+</div>
