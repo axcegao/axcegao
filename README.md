@@ -4,11 +4,12 @@
 
 ## About Me
 
-  - Young **fullstack developer** from Ufa, Russia.
-  - Student at **K1berOne** programming school.
-  - Working with **online stores** for small businesses.
+  - **Full-stack developer** from Ufa, Russia.
+  - Coding tutor at **K1berOne** programming school.
+  - Building **web apps** and **online stores** for small businesses.
   - Currently studying **Machine Learning & AI development**.
-  - Reach me: **[@axcegap](https://t.me/axcegap)** on Telegram.
+  - Passionate about **web development** and **chess**.
+  - Reach me: **[@axcegap](https://t.me)** on Telegram or **axcegao@gmail.com**.
 
 ---
 
@@ -20,9 +21,3 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-
----
-
-### 📈 GitHub Stats
-
-[![Ural's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=axcegao&theme=react)](https://github.com/axcegao/github-readme-activity-graph)
